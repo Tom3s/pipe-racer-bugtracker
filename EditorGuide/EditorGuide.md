@@ -59,11 +59,11 @@ Freefly camera:
 General:
 | `L-Click` | Place/Select |
 |-|-|
-| `Mwheel Up/Down` | Move Grid Up/Down |
+| `Scroll Up/Down` | Move Grid Up/Down |
 | `PageUp`/`PageDown` | Move Grid Up/Down |
-| `Shift` + `Mwheel` | Rotate current object (Yaw) |
-| `Ctrl` + `Mwheel` | Rotate current object (Roll) |
-| `Alt` + `Mwheel` | Rotate current object (Pitch) |
+| `Shift` + `Scroll` | Rotate current object (Yaw) |
+| `Ctrl` + `Scroll` | Rotate current object (Roll) |
+| `Alt` + `Scroll` | Rotate current object (Pitch) |
 | `R` | Reset object rotation |
 
 Miscellaneous:
@@ -96,7 +96,7 @@ Here is what all of them do:
 
 1. **X-Ray:** will show a faint _ghost_ of objects behind other objects. This is useful if for not getting lost with your item placements
   ![alt text](ezgif-442e80cba0573de6.gif)
-2. **Fullbright:** makes the map visible in the dark. This is useful for nigh-time maps. _Note:_ this is editor only. Driving the map will return brightness back to normal
+2. **Fullbright:** makes the map visible in the dark. This is useful for nigh-time maps. _Note:_ this is **_editor only_**. Driving the map will return brightness back to normal
   ![alt text](fullbright.gif)
 3. **Reset Camera:** this will teleport you back to the middle of the map. Useful when you end up _"going into the stratosphere"_
   ![alt text](reset_cam.gif)
@@ -202,6 +202,8 @@ Once you created a general layout of your track, you should place the a _Start L
 
 ### Start and Checkpoints
 
+**Important:** Every track must contain a _Start Line_ and _at least one Checkpoint_ for it to be valid!
+
 > ![alt text](image-10.png)
 >
 > Go to the `Start` submenu
@@ -268,7 +270,7 @@ You will have different option to choose from. The most interesting one is the _
 >
 > Multitude of pre-existing textures for different situations
 
-Select the texture you like, and place down you _LED board_
+Select the texture you like, and place down youe _LED board_
 
 ![a](place_led_board.gif)
 
@@ -495,6 +497,6 @@ Prism shapes allow you to place prism or pyramid like shapes, such as cubes, elo
 
 > ![a](light_circles.gif)
 > 
-> Note: the spheres where you place the lights are only visible while editing.
+> Note: the spheres where you place the lights are only visible **_while editing_**.
 
 
