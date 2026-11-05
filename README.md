@@ -1,5 +1,5 @@
 # Pace Warp Public Bug Tracker
-This is the public, issue-only repo for `pipe-racer`, mainly to track player facing bugs and feature requests.
+This is the public, issue-only repo for Pace Warp (formerly known as `pipe-racer`), mainly to track player facing bugs and feature requests.
 
 You can submit a bug or write a feature request [here](https://github.com/Tom3s/pipe-racer-bugtracker/issues/new/choose)
 
