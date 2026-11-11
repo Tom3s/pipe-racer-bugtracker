@@ -1,11 +1,12 @@
 # Editor Guide
 
-This guide is up to date as of v1.5.343
+This guide is up to date as of v1.5.367
 
 <details>
   <summary>Here's what's not yet added to the guide</summary>
 
-	- Everything is currently up to date
+	- Scenery editor (added in 1.5.391)
+	- Tips and Tricks, to help use the editor efficiently
 </details>
 
 ## Table of contents
